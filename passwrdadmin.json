@@ -367,7 +367,7 @@
         "device_id": "2473204b02a23eb7",
         "key": "key76xx",
         "expirydate": "31-12-2025",
-        "Allowoffline": true,
+        "Allowoffline": false,
         "username": "user_53"
     }
         ]
