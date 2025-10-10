@@ -7,7 +7,7 @@
         "username": "user_1"
     },
     {
-        "device_id": "9d225d05fbff0db",
+        "device_id": "block9d225d05fbff0db",
         "key": "+8801920512530",
         "expirydate": "31-12-2025",
         "Allowoffline": false,
@@ -22,7 +22,7 @@
     },
     {
         "device_id": "f2f20c3445c0202a",
-        "key": "01757911407",
+        "key": "0175791140",
         "expirydate": "31-12-2025",
         "Allowoffline": false,
         "username": "+8801757911407"
