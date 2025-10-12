@@ -28,11 +28,11 @@
         "username": "+8801757911407"
     },
     {
-        "device_id": "a1b2c3d4e5f60113",
-        "key": "key0005",
+        "device_id": "eb879d1fd6f62216",
+        "key": "sb1",
         "expirydate": "31-12-2025",
-        "Allowoffline": true,
-        "username": "user_5"
+        "Allowoffline": false,
+        "username": "sb1"
     },
     {
         "device_id": "a1b2c3d4e5f60114",
