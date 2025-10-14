@@ -42,10 +42,10 @@
         "username": "bideshi"
     },
     {
-        "device_id": "a1b2c3d4e5f60115",
-        "key": "key0007",
+        "device_id": "016e6a014c3a2e87",
+        "key": "pc",
         "expirydate": "31-12-2025",
-        "Allowoffline": true,
+        "Allowoffline": false,
         "username": "user_7"
     },
     {
