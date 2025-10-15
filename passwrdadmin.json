@@ -63,11 +63,11 @@
         "username": "+880 1707-556444"
     },
     {
-        "device_id": "a1b2c3d4e5f60118",
-        "key": "key0010",
+        "device_id": "1f96f66790297eea",
+        "key": "SM@1",
         "expirydate": "31-12-2025",
-        "Allowoffline": true,
-        "username": "user_10"
+        "Allowoffline": false,
+        "username": "Sabbir"
     },
     {
         "device_id": "a1b2c3d4e5f60119",
