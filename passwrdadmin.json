@@ -77,11 +77,11 @@
         "username": "user_11"
     },
     {
-        "device_id": "a1b2c3d4e5f6011a",
-        "key": "key0012",
+        "device_id": "fe51add9c0026e83",
+        "key": "SMT@1",
         "expirydate": "31-12-2025",
-        "Allowoffline": true,
-        "username": "user_12"
+        "Allowoffline": false,
+        "username": "+8801879486697"
     },
     {
         "device_id": "a1b2c3d4e5f6011b",
