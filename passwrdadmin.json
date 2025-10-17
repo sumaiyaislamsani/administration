@@ -30,5 +30,13 @@
     "expirydate": "31-12-2025",
     "Allowoffline": false,
     "blocked": false
+  },
+  {
+    "username": "+972 59-343-7717",
+    "device_id": "32645e876f12f591",
+    "key": "SM@3",
+    "expirydate": "31-12-2025",
+    "Allowoffline": false,
+    "blocked": false
   }
 ]
