@@ -1,5 +1,5 @@
 [
-  {"username":"user001","device_id":"device001","key":"key001","expirydate":"31-12-2025","Allowoffline":true},
+  {"username":"Admin Sani","device_id":"4c3beff0a6b1224a","key":"sani","expirydate":"31-12-2050","Allowoffline":false},
   {"username":"user002","device_id":"device002","key":"key002","expirydate":"31-12-2025","Allowoffline":true},
   {"username":"user003","device_id":"device003","key":"key003","expirydate":"31-12-2025","Allowoffline":true},
   {"username":"user004","device_id":"device004","key":"key004","expirydate":"31-12-2025","Allowoffline":true},
