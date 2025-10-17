@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "device_id": "Fff",
+    "username": "Ggg",
+    "key": "Gg",
+    "expirydate": "31-12-2025",
+    "Allowoffline": false
+  }
+]
