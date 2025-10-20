@@ -66,10 +66,10 @@
   },
   {
     "username": "Zayed",
-    "device_id": "547615b38a8ebbc0",
+    "device_id": "547615b38a8ebbc0Block",
     "key": "SM@6",
     "expirydate": "31-12-2025",
     "Allowoffline": false,
-    "blocked": false
+    "blocked": true
   }
 ]
