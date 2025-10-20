@@ -19,7 +19,7 @@
     "username": "Admin Sani",
     "device_id": "4c3beff0a6b1224a",
     "key": "boss",
-    "expirydate": "20-10-2050",
+    "expirydate": "20-10-2025",
     "Allowoffline": false,
     "blocked": false
   },
@@ -83,6 +83,14 @@
     "username": "Pinku+1300TK",
     "device_id": "80039ef576876e54",
     "key": "SM@8",
+    "expirydate": "31-12-2025",
+    "Allowoffline": false,
+    "blocked": false
+  },
+  {
+    "username": "+8801614988240",
+    "device_id": "8c1121a3410d553d",
+    "key": "SM@9",
     "expirydate": "31-12-2025",
     "Allowoffline": false,
     "blocked": false
