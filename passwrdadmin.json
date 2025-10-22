@@ -96,12 +96,12 @@
     "blocked": true
   },
   {
-    "username": "Rubel",
-    "device_id": "a1a79ab10d7241b5",
+    "username": "Khedma2",
+    "device_id": "12ca064ac4c3f298",
     "key": "SM@10",
     "expirydate": "21-10-2025",
     "Allowoffline": false,
-    "blocked": true
+    "blocked": false
   },
   {
     "username": "Khedma1",
