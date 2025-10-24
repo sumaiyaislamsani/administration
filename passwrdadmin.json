@@ -59,7 +59,7 @@
     "profile_photo": "",
     "Allowoffline": false,
     "active_user": true,
-    "blocked": false,
+    "blocked": true,
     "username": "New",
     "device_id": "Bew",
     "key": "New",
