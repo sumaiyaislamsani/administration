@@ -22,15 +22,15 @@
     "expirydate": "15-12-2025"
   },
   {
+    "payment_complete": true,
+    "profile_photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_5grtHK5HBd7GTxMM4XGCT5FVQojNqxdFVWFoxRO94vlJo8blb5w80NY&s=10",
+    "Allowoffline": false,
+    "active_user": true,
+    "blocked": true,
     "username": "Admin Sani",
     "device_id": "4c3beff0a6b1224a",
     "key": "Admin",
-    "expirydate": "20-10-2090",
-    "profile_photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_5grtHK5HBd7GTxMM4XGCT5FVQojNqxdFVWFoxRO94vlJo8blb5w80NY&s=10",
-    "Allowoffline": false,
-    "blocked": false,
-    "active_user": true,
-    "payment_complete": true
+    "expirydate": "20-10-2090"
   },
   {
     "payment_complete": true,
