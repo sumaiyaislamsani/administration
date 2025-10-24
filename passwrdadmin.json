@@ -1,6 +1,6 @@
 [
   {
-    "payment_complete": false,
+    "payment_complete": true,
     "profile_photo": "https://s8.ezgif.com/tmp/ezgif-8bb758cd2ce6dd.jpg",
     "Allowoffline": false,
     "active_user": true,
