@@ -3,7 +3,7 @@
     "payment_complete": true,
     "profile_photo": "https://s8.ezgif.com/tmp/ezgif-8bb758cd2ce6dd.jpg",
     "Allowoffline": false,
-    "active_user": true,
+    "active_user": false,
     "blocked": false,
     "username": "+8801319231603",
     "device_id": "71a9114cda034834",
