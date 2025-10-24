@@ -26,7 +26,7 @@
     "profile_photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_5grtHK5HBd7GTxMM4XGCT5FVQojNqxdFVWFoxRO94vlJo8blb5w80NY&s=10",
     "Allowoffline": false,
     "active_user": true,
-    "blocked": false,
+    "blocked": true,
     "username": "Admin Sani",
     "device_id": "4c3beff0a6b1224a",
     "key": "Admin",
