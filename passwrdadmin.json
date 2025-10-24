@@ -44,7 +44,7 @@
     "expirydate": "01-11-2025"
   },
   {
-    "payment_complete": false,
+    "payment_complete": true,
     "profile_photo": "https://i.ibb.co/Sv3T7HY/default.png",
     "Allowoffline": false,
     "active_user": true,
