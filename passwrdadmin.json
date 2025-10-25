@@ -1,52 +1,373 @@
 [
-  {"username":"Admin","key":"Admin","device_id":"4c3beff0a6b1224a","expirydate":"25-10-2030"},
-  {"username":"user2","key":"User","device_id":"device002","expirydate":"25-10-2030"},
-  {"username":"user3","key":"User","device_id":"device003","expirydate":"25-10-2030"},
-  {"username":"user4","key":"User","device_id":"device004","expirydate":"25-10-2030"},
-  {"username":"user5","key":"User","device_id":"device005","expirydate":"25-10-2030"},
-  {"username":"user6","key":"User","device_id":"device006","expirydate":"25-10-2030"},
-  {"username":"user7","key":"User","device_id":"device007","expirydate":"25-10-2030"},
-  {"username":"user8","key":"User","device_id":"device008","expirydate":"25-10-2030"},
-  {"username":"user9","key":"User","device_id":"device009","expirydate":"25-10-2030"},
-  {"username":"user10","key":"User","device_id":"device010","expirydate":"25-10-2030"},
-  {"username":"user11","key":"User","device_id":"device011","expirydate":"25-10-2030"},
-  {"username":"user12","key":"User","device_id":"device012","expirydate":"25-10-2030"},
-  {"username":"user13","key":"User","device_id":"device013","expirydate":"25-10-2030"},
-  {"username":"user14","key":"User","device_id":"device014","expirydate":"25-10-2030"},
-  {"username":"user15","key":"User","device_id":"device015","expirydate":"25-10-2030"},
-  {"username":"user16","key":"User","device_id":"device016","expirydate":"25-10-2030"},
-  {"username":"user17","key":"User","device_id":"device017","expirydate":"25-10-2030"},
-  {"username":"user18","key":"User","device_id":"device018","expirydate":"25-10-2030"},
-  {"username":"user19","key":"User","device_id":"device019","expirydate":"25-10-2030"},
-  {"username":"user20","key":"User","device_id":"device020","expirydate":"25-10-2030"},
-  {"username":"user21","key":"User","device_id":"device021","expirydate":"25-10-2030"},
-  {"username":"user22","key":"User","device_id":"device022","expirydate":"25-10-2030"},
-  {"username":"user23","key":"User","device_id":"device023","expirydate":"25-10-2030"},
-  {"username":"user24","key":"User","device_id":"device024","expirydate":"25-10-2030"},
-  {"username":"user25","key":"User","device_id":"device025","expirydate":"25-10-2030"},
-  {"username":"user26","key":"User","device_id":"device026","expirydate":"25-10-2030"},
-  {"username":"user27","key":"User","device_id":"device027","expirydate":"25-10-2030"},
-  {"username":"user28","key":"User","device_id":"device028","expirydate":"25-10-2030"},
-  {"username":"user29","key":"User","device_id":"device029","expirydate":"25-10-2030"},
-  {"username":"user30","key":"User","device_id":"device030","expirydate":"25-10-2030"},
-  {"username":"user31","key":"User","device_id":"device031","expirydate":"25-10-2030"},
-  {"username":"user32","key":"User","device_id":"device032","expirydate":"25-10-2030"},
-  {"username":"user33","key":"User","device_id":"device033","expirydate":"25-10-2030"},
-  {"username":"user34","key":"User","device_id":"device034","expirydate":"25-10-2030"},
-  {"username":"user35","key":"User","device_id":"device035","expirydate":"25-10-2030"},
-  {"username":"user36","key":"User","device_id":"device036","expirydate":"25-10-2030"},
-  {"username":"user37","key":"User","device_id":"device037","expirydate":"25-10-2030"},
-  {"username":"user38","key":"User","device_id":"device038","expirydate":"25-10-2030"},
-  {"username":"user39","key":"User","device_id":"device039","expirydate":"25-10-2030"},
-  {"username":"user40","key":"User","device_id":"device040","expirydate":"25-10-2030"},
-  {"username":"user41","key":"User","device_id":"device041","expirydate":"25-10-2030"},
-  {"username":"user42","key":"User","device_id":"device042","expirydate":"25-10-2030"},
-  {"username":"user43","key":"User","device_id":"device043","expirydate":"25-10-2030"},
-  {"username":"user44","key":"User","device_id":"device044","expirydate":"25-10-2030"},
-  {"username":"user45","key":"User","device_id":"device045","expirydate":"25-10-2030"},
-  {"username":"user46","key":"User","device_id":"device046","expirydate":"25-10-2030"},
-  {"username":"user47","key":"User","device_id":"device047","expirydate":"25-10-2030"},
-  {"username":"user48","key":"User","device_id":"device048","expirydate":"25-10-2030"},
-  {"username":"user49","key":"User","device_id":"device049","expirydate":"25-10-2030"},
-  {"username":"user50","key":"User","device_id":"device050","expirydate":"25-10-2030"}
-]
+    {
+        "device_id": "4c3beff0a6b1224a",
+        "key": "Admin",
+        "expirydate": "31-12-2080",
+        "Allowoffline": false,
+        "username": "Admin"
+    },
+    {
+        "device_id": "99d225d05fbff0db",
+        "key": "+8801920512532",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true,
+        "username": "8 Oct - Nov 8"
+    },
+    {
+        "device_id": "a1b2c3d4e5f60111",
+        "key": "key0003",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true,
+        "username": "user_3"
+    },
+    {
+        "device_id": "a1b2c3d4e5f60112",
+        "key": "key0004",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true,
+        "username": "user_4"
+    },
+    {
+        "device_id": "a1b2c3d4e5f60113",
+        "key": "key0005",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true,
+        "username": "user_5"
+    },
+    {
+        "device_id": "a1b2c3d4e5f60114",
+        "key": "key0006",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true,
+        "username": "user_6"
+    },
+    {
+        "device_id": "a1b2c3d4e5f60115",
+        "key": "key0007",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true,
+        "username": "user_7"
+    },
+    {
+        "device_id": "a1b2c3d4e5f60116",
+        "key": "key0008",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true,
+        "username": "user_8"
+    },
+    {
+        "device_id": "a1b2c3d4e5f60117",
+        "key": "key0009",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true,
+        "username": "user_9"
+    },
+    {
+        "device_id": "a1b2c3d4e5f60118",
+        "key": "key0010",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true,
+        "username": "user_10"
+    },
+    {
+        "device_id": "a1b2c3d4e5f60119",
+        "key": "key0011",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true,
+        "username": "user_11"
+    },
+    {
+        "device_id": "a1b2c3d4e5f6011a",
+        "key": "key0012",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true,
+        "username": "user_12"
+    },
+    {
+        "device_id": "a1b2c3d4e5f6011b",
+        "key": "key0013",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true,
+        "username": "user_13"
+    },
+    {
+        "device_id": "a1b2c3d4e5f6011c",
+        "key": "key0014",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true,
+        "username": "user_14"
+    },
+    {
+        "device_id": "a1b2c3d4e5f6011d",
+        "key": "key0015",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true,
+        "username": "user_15"
+    },
+    {
+        "device_id": "a1b2c3d4e5f6011e",
+        "key": "key0016",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true,
+        "username": "user_16"
+    },
+    {
+        "device_id": "a1b2c3d4e5f6011f",
+        "key": "key0017",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true,
+        "username": "user_17"
+    },
+    {
+        "device_id": "a1b2c3d4e5f60120",
+        "key": "key0018",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true,
+        "username": "user_18"
+    },
+    {
+        "device_id": "a1b2c3d4e5f60121",
+        "key": "key0019",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true,
+        "username": "user_19"
+    },
+    {
+        "device_id": "a1b2c3d4e5f60122",
+        "key": "key0020",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true,
+        "username": "user_20"
+    },
+    {
+        "device_id": "a1b2c3d4e5f60123",
+        "key": "key0021",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true,
+        "username": "user_21"
+    },
+    {
+        "device_id": "a1b2c3d4e5f60124",
+        "key": "key0022",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true,
+        "username": "user_22"
+    },
+    {
+        "device_id": "a1b2c3d4e5f60125",
+        "key": "key0023",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true,
+        "username": "user_23"
+    },
+    {
+        "device_id": "a1b2c3d4e5f60126",
+        "key": "key0024",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true,
+        "username": "user_24"
+    },
+    {
+        "device_id": "a1b2c3d4e5f60127",
+        "key": "key0025",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true,
+        "username": "user_25"
+    },
+    {
+        "device_id": "a1b2c3d4e5f60128",
+        "key": "key0026",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true,
+        "username": "user_26"
+    },
+    {
+        "device_id": "a1b2c3d4e5f60129",
+        "key": "key0027",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true,
+        "username": "user_27"
+    },
+    {
+        "device_id": "a1b2c3d4e5f6012a",
+        "key": "key0028",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true,
+        "username": "user_28"
+    },
+    {
+        "device_id": "a1b2c3d4e5f6012b",
+        "key": "key0029",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true,
+        "username": "user_29"
+    },
+    {
+        "device_id": "a1b2c3d4e5f6012c",
+        "key": "key0030",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true,
+        "username": "user_30"
+    },
+    {
+        "device_id": "a1b2c3d4e5f6012d",
+        "key": "key0031",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true,
+        "username": "user_31"
+    },
+    {
+        "device_id": "a1b2c3d4e5f6012e",
+        "key": "key0032",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true,
+        "username": "user_32"
+    },
+    {
+        "device_id": "a1b2c3d4e5f6012f",
+        "key": "key0033",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true,
+        "username": "user_33"
+    },
+    {
+        "device_id": "a1b2c3d4e5f60130",
+        "key": "key0034",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true,
+        "username": "user_34"
+    },
+    {
+        "device_id": "a1b2c3d4e5f60131",
+        "key": "key0035",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true,
+        "username": "user_35"
+    },
+    {
+        "device_id": "a1b2c3d4e5f60132",
+        "key": "key0036",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true,
+        "username": "user_36"
+    },
+    {
+        "device_id": "a1b2c3d4e5f60133",
+        "key": "key0037",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true,
+        "username": "user_37"
+    },
+    {
+        "device_id": "a1b2c3d4e5f60134",
+        "key": "key0038",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true,
+        "username": "user_38"
+    },
+    {
+        "device_id": "a1b2c3d4e5f60135",
+        "key": "key0039",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true,
+        "username": "user_39"
+    },
+    {
+        "device_id": "a1b2c3d4e5f60136",
+        "key": "key0040",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true,
+        "username": "user_40"
+    },
+    {
+        "device_id": "a1b2c3d4e5f60137",
+        "key": "key0041",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true,
+        "username": "user_41"
+    },
+    {
+        "device_id": "a1b2c3d4e5f60138",
+        "key": "key0042",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true,
+        "username": "user_42"
+    },
+    {
+        "device_id": "a1b2c3d4e5f60139",
+        "key": "key0043",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true,
+        "username": "user_43"
+    },
+    {
+        "device_id": "a1b2c3d4e5f6013a",
+        "key": "key0044",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true,
+        "username": "user_44"
+    },
+    {
+        "device_id": "a1b2c3d4e5f6013b",
+        "key": "key0045",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true,
+        "username": "user_45"
+    },
+    {
+        "device_id": "a1b2c3d4e5f6013c",
+        "key": "key0046",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true,
+        "username": "user_46"
+    },
+    {
+        "device_id": "a1b2c3d4e5f6013d",
+        "key": "key0047",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true,
+        "username": "user_47"
+    },
+    {
+        "device_id": "a1b2c3d4e5f6013e",
+        "key": "key0048",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true,
+        "username": "user_48"
+    },
+    {
+        "device_id": "a1b2c3d4e5f6013f",
+        "key": "key0049",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true,
+        "username": "user_49"
+    },
+    {
+        "device_id": "a1b2c3d4e5f60140",
+        "key": "key0050",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true,
+        "username": "user_50"
+    },
+    {
+        "device_id": "a1b2c3d4e5f60141",
+        "key": "key0051",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true,
+        "username": "user_51"
+    },
+    {
+        "device_id": "a1b2c3d4e5f60142",
+        "key": "key0052",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true,
+        "username": "user_52"
+    },
+    {
+        "device_id": "2473204b02a23eb7",
+        "key": "key76xx",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true,
+        "username": "user_53"
+    }
+        ]
