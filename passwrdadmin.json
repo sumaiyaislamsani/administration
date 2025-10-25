@@ -14,11 +14,11 @@
         "username": "8 Oct - Nov 8"
     },
     {
-        "device_id": "a1b2c3d4e5f60111",
-        "key": "key0003",
+        "device_id": "a5b3387bef19a98c",
+        "key": "SM@5",
         "expirydate": "31-12-2025",
-        "Allowoffline": true,
-        "username": "user_3"
+        "Allowoffline": false,
+        "username": "Khedma Friend"
     },
     {
         "device_id": "a1b2c3d4e5f60112",
