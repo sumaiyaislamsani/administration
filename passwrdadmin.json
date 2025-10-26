@@ -1,6 +1,6 @@
 [
   {
-    "paymentUSD": 50,
+    "paymentUSD": 0,
     "paymentBDT": 0,
     "device_id": "4c3beff0a6b1224a",
     "key": "Admin",
@@ -10,16 +10,16 @@
   },
   {
     "paymentUSD": 0,
-    "paymentBDT": 0,
+    "paymentBDT": 500,
     "username": "8 Oct - Nov 8",
     "device_id": "99d225d05fbff0db",
     "key": "+8801920512532",
     "expirydate": "08-11-2025",
-    "Allowoffline": true,
+    "Allowoffline": false,
     "blocked": false
   },
   {
-    "paymentUSD": 0,
+    "paymentUSD": 25,
     "paymentBDT": 0,
     "device_id": "a5b3387bef19a98c",
     "key": "SM@5",
