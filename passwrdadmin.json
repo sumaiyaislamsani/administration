@@ -1,6 +1,7 @@
 [
   {
-    "payment": 0,
+    "paymentUSD": 50,
+    "paymentBDT": 0,
     "device_id": "4c3beff0a6b1224a",
     "key": "Admin",
     "expirydate": "31-12-2080",
@@ -8,16 +9,18 @@
     "username": "Admin"
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "username": "8 Oct - Nov 8",
     "device_id": "99d225d05fbff0db",
     "key": "+8801920512532",
     "expirydate": "08-11-2025",
     "Allowoffline": true,
-    "blocked": false,
-    "payment": 500
+    "blocked": false
   },
   {
-    "payment": 0,
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "a5b3387bef19a98c",
     "key": "SM@5",
     "expirydate": "31-12-2025",
@@ -25,7 +28,8 @@
     "username": "Khedma Friend"
   },
   {
-    "payment": 0,
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "9da83c1b8070b811",
     "key": "SM@10",
     "expirydate": "31-12-2025",
@@ -33,7 +37,8 @@
     "username": "Khedma1+40$"
   },
   {
-    "payment": 0,
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "f4d31fd9885c812f",
     "key": "SM@11",
     "expirydate": "31-12-2025",
@@ -41,7 +46,8 @@
     "username": "Khedma2"
   },
   {
-    "payment": 0,
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "bf33c66737a348e2",
     "key": "Nowrin",
     "expirydate": "31-12-2025",
@@ -49,7 +55,8 @@
     "username": "Nowrin+1000৳"
   },
   {
-    "payment": 0,
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "a1a79ab10d7241b5",
     "key": "SM@13",
     "expirydate": "01-12-2025",
@@ -57,7 +64,8 @@
     "username": "MD Shakil"
   },
   {
-    "payment": 0,
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "ad837e16177c8e8d",
     "key": "Mumit@1",
     "expirydate": "31-12-2025",
@@ -65,7 +73,8 @@
     "username": "Mumit+1300৳"
   },
   {
-    "payment": 0,
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "32645e876f12f591",
     "key": "SM@3",
     "expirydate": "31-12-2025",
@@ -73,7 +82,8 @@
     "username": "Abu kasem+30$"
   },
   {
-    "payment": 0,
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "80039ef576876e54",
     "key": "SM@8",
     "expirydate": "31-12-2025",
@@ -81,7 +91,8 @@
     "username": "Pinku"
   },
   {
-    "payment": 0,
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "8d5a7ec697667b8a",
     "key": "Korim@1Blocked",
     "expirydate": "31-12-2025",
@@ -90,7 +101,8 @@
     "blocked": true
   },
   {
-    "payment": 0,
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "71a9114cda034834",
     "key": "SM1",
     "expirydate": "31-12-2025",
@@ -98,7 +110,8 @@
     "username": "+8801319231603+2000৳"
   },
   {
-    "payment": 0,
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "username": "TG Mawa",
     "device_id": "eb927f76b654dc9c",
     "key": "Mawa@1",
@@ -107,7 +120,8 @@
     "blocked": false
   },
   {
-    "payment": 0,
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "a1b2c3d4e5f6011c",
     "key": "key0014",
     "expirydate": "31-12-2025",
@@ -115,7 +129,8 @@
     "username": "user_14"
   },
   {
-    "payment": 0,
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "a1b2c3d4e5f6011d",
     "key": "key0015",
     "expirydate": "31-12-2025",
@@ -123,7 +138,8 @@
     "username": "user_15"
   },
   {
-    "payment": 0,
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "a1b2c3d4e5f6011e",
     "key": "key0016",
     "expirydate": "31-12-2025",
@@ -131,7 +147,8 @@
     "username": "user_16"
   },
   {
-    "payment": 0,
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "a1b2c3d4e5f6011f",
     "key": "key0017",
     "expirydate": "31-12-2025",
@@ -139,7 +156,8 @@
     "username": "user_17"
   },
   {
-    "payment": 0,
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "a1b2c3d4e5f60120",
     "key": "key0018",
     "expirydate": "31-12-2025",
@@ -147,7 +165,8 @@
     "username": "user_18"
   },
   {
-    "payment": 0,
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "a1b2c3d4e5f60121",
     "key": "key0019",
     "expirydate": "31-12-2025",
@@ -155,7 +174,8 @@
     "username": "user_19"
   },
   {
-    "payment": 0,
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "a1b2c3d4e5f60122",
     "key": "key0020",
     "expirydate": "31-12-2025",
@@ -163,7 +183,8 @@
     "username": "user_20"
   },
   {
-    "payment": 0,
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "a1b2c3d4e5f60123",
     "key": "key0021",
     "expirydate": "31-12-2025",
@@ -171,7 +192,8 @@
     "username": "user_21"
   },
   {
-    "payment": 0,
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "a1b2c3d4e5f60124",
     "key": "key0022",
     "expirydate": "31-12-2025",
@@ -179,7 +201,8 @@
     "username": "user_22"
   },
   {
-    "payment": 0,
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "a1b2c3d4e5f60125",
     "key": "key0023",
     "expirydate": "31-12-2025",
@@ -187,7 +210,8 @@
     "username": "user_23"
   },
   {
-    "payment": 0,
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "a1b2c3d4e5f60126",
     "key": "key0024",
     "expirydate": "31-12-2025",
@@ -195,7 +219,8 @@
     "username": "user_24"
   },
   {
-    "payment": 0,
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "a1b2c3d4e5f60127",
     "key": "key0025",
     "expirydate": "31-12-2025",
@@ -203,7 +228,8 @@
     "username": "user_25"
   },
   {
-    "payment": 0,
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "a1b2c3d4e5f60128",
     "key": "key0026",
     "expirydate": "31-12-2025",
@@ -211,7 +237,8 @@
     "username": "user_26"
   },
   {
-    "payment": 0,
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "a1b2c3d4e5f60129",
     "key": "key0027",
     "expirydate": "31-12-2025",
@@ -219,7 +246,8 @@
     "username": "user_27"
   },
   {
-    "payment": 0,
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "a1b2c3d4e5f6012a",
     "key": "key0028",
     "expirydate": "31-12-2025",
@@ -227,7 +255,8 @@
     "username": "user_28"
   },
   {
-    "payment": 0,
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "a1b2c3d4e5f6012b",
     "key": "key0029",
     "expirydate": "31-12-2025",
@@ -235,7 +264,8 @@
     "username": "user_29"
   },
   {
-    "payment": 0,
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "a1b2c3d4e5f6012c",
     "key": "key0030",
     "expirydate": "31-12-2025",
@@ -243,7 +273,8 @@
     "username": "user_30"
   },
   {
-    "payment": 0,
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "a1b2c3d4e5f6012d",
     "key": "key0031",
     "expirydate": "31-12-2025",
@@ -251,7 +282,8 @@
     "username": "user_31"
   },
   {
-    "payment": 0,
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "a1b2c3d4e5f6012e",
     "key": "key0032",
     "expirydate": "31-12-2025",
@@ -259,7 +291,8 @@
     "username": "user_32"
   },
   {
-    "payment": 0,
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "a1b2c3d4e5f6012f",
     "key": "key0033",
     "expirydate": "31-12-2025",
@@ -267,7 +300,8 @@
     "username": "user_33"
   },
   {
-    "payment": 0,
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "a1b2c3d4e5f60130",
     "key": "key0034",
     "expirydate": "31-12-2025",
@@ -275,7 +309,8 @@
     "username": "user_34"
   },
   {
-    "payment": 0,
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "a1b2c3d4e5f60131",
     "key": "key0035",
     "expirydate": "31-12-2025",
@@ -283,7 +318,8 @@
     "username": "user_35"
   },
   {
-    "payment": 0,
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "a1b2c3d4e5f60132",
     "key": "key0036",
     "expirydate": "31-12-2025",
@@ -291,7 +327,8 @@
     "username": "user_36"
   },
   {
-    "payment": 0,
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "a1b2c3d4e5f60133",
     "key": "key0037",
     "expirydate": "31-12-2025",
@@ -299,7 +336,8 @@
     "username": "user_37"
   },
   {
-    "payment": 0,
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "a1b2c3d4e5f60134",
     "key": "key0038",
     "expirydate": "31-12-2025",
@@ -307,7 +345,8 @@
     "username": "user_38"
   },
   {
-    "payment": 0,
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "a1b2c3d4e5f60135",
     "key": "key0039",
     "expirydate": "31-12-2025",
@@ -315,7 +354,8 @@
     "username": "user_39"
   },
   {
-    "payment": 0,
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "a1b2c3d4e5f60136",
     "key": "key0040",
     "expirydate": "31-12-2025",
@@ -323,7 +363,8 @@
     "username": "user_40"
   },
   {
-    "payment": 0,
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "a1b2c3d4e5f60137",
     "key": "key0041",
     "expirydate": "31-12-2025",
@@ -331,7 +372,8 @@
     "username": "user_41"
   },
   {
-    "payment": 0,
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "a1b2c3d4e5f60138",
     "key": "key0042",
     "expirydate": "31-12-2025",
@@ -339,7 +381,8 @@
     "username": "user_42"
   },
   {
-    "payment": 0,
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "a1b2c3d4e5f60139",
     "key": "key0043",
     "expirydate": "31-12-2025",
@@ -347,7 +390,8 @@
     "username": "user_43"
   },
   {
-    "payment": 0,
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "a1b2c3d4e5f6013a",
     "key": "key0044",
     "expirydate": "31-12-2025",
@@ -355,7 +399,8 @@
     "username": "user_44"
   },
   {
-    "payment": 0,
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "a1b2c3d4e5f6013b",
     "key": "key0045",
     "expirydate": "31-12-2025",
@@ -363,7 +408,8 @@
     "username": "user_45"
   },
   {
-    "payment": 0,
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "a1b2c3d4e5f6013c",
     "key": "key0046",
     "expirydate": "31-12-2025",
@@ -371,7 +417,8 @@
     "username": "user_46"
   },
   {
-    "payment": 0,
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "a1b2c3d4e5f6013d",
     "key": "key0047",
     "expirydate": "31-12-2025",
@@ -379,7 +426,8 @@
     "username": "user_47"
   },
   {
-    "payment": 0,
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "a1b2c3d4e5f6013e",
     "key": "key0048",
     "expirydate": "31-12-2025",
@@ -387,7 +435,8 @@
     "username": "user_48"
   },
   {
-    "payment": 0,
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "a1b2c3d4e5f6013f",
     "key": "key0049",
     "expirydate": "31-12-2025",
@@ -395,7 +444,8 @@
     "username": "user_49"
   },
   {
-    "payment": 0,
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "a1b2c3d4e5f60140",
     "key": "key0050",
     "expirydate": "31-12-2025",
@@ -403,7 +453,8 @@
     "username": "user_50"
   },
   {
-    "payment": 0,
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "a1b2c3d4e5f60141",
     "key": "key0051",
     "expirydate": "31-12-2025",
@@ -411,7 +462,8 @@
     "username": "user_51"
   },
   {
-    "payment": 0,
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "a1b2c3d4e5f60142",
     "key": "key0052",
     "expirydate": "31-12-2025",
@@ -419,7 +471,8 @@
     "username": "user_52"
   },
   {
-    "payment": 0,
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "device_id": "2473204b02a23eb7",
     "key": "key76xx",
     "expirydate": "31-12-2025",
