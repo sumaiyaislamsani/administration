@@ -86,11 +86,12 @@
     "username": "+8801319231603+2000৳"
   },
   {
-    "device_id": "a1b2c3d4e5f6011b",
-    "key": "key0013",
+    "username": "TG Mawa",
+    "device_id": "eb927f76b654dc9c",
+    "key": "Mawa@1",
     "expirydate": "31-12-2025",
-    "Allowoffline": true,
-    "username": "user_13"
+    "Allowoffline": false,
+    "blocked": false
   },
   {
     "device_id": "a1b2c3d4e5f6011c",
