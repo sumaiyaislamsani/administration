@@ -65,12 +65,12 @@
   },
   {
     "paymentUSD": 0,
-    "paymentBDT": 0,
+    "paymentBDT": 1300,
     "device_id": "ad837e16177c8e8d",
     "key": "Mumit@1",
     "expirydate": "31-12-2025",
     "Allowoffline": false,
-    "username": "Mumit+1300৳"
+    "username": "Mumit"
   },
   {
     "paymentUSD": 0,
