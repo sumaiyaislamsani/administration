@@ -102,12 +102,12 @@
   },
   {
     "paymentUSD": 0,
-    "paymentBDT": 0,
+    "paymentBDT": 2000,
     "device_id": "71a9114cda034834",
     "key": "SM1",
     "expirydate": "31-12-2025",
     "Allowoffline": false,
-    "username": "+8801319231603+2000৳"
+    "username": "+8801319231603"
   },
   {
     "paymentUSD": 0,
