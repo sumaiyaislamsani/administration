@@ -173,9 +173,9 @@
     "paymentBDT": 0,
     "username": "T64",
     "device_id": "5ed12a01ee04ded1",
-    "key": "user101",
+    "key": "user101block",
     "expirydate": "31-12-2025",
-    "Allowoffline": true,
+    "Allowoffline": false,
     "blocked": true
   },
   {
