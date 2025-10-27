@@ -176,7 +176,7 @@
     "key": "user101",
     "expirydate": "31-12-2025",
     "Allowoffline": true,
-    "blocked": false
+    "blocked": true
   },
   {
     "paymentUSD": 0,
