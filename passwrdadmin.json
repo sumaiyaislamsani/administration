@@ -528,5 +528,15 @@
     "expirydate": "31-12-2025",
     "Allowoffline": true,
     "blocked": false
+  },
+  {
+    "username": "+212 629-091026",
+    "device_id": "f0b44bfdac001e73",
+    "key": "Sani123",
+    "expirydate": "31-12-2025",
+    "Allowoffline": false,
+    "blocked": false,
+    "paymentUSD": 0,
+    "paymentBDT": 0
   }
 ]
