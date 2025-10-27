@@ -523,10 +523,10 @@
     "paymentUSD": 0,
     "paymentBDT": 0,
     "username": "T64",
-    "device_id": "78a86c24f7464f3a",
+    "device_id": "5ed12a01ee04ded1",
     "key": "user101",
     "expirydate": "31-12-2025",
-    "Allowoffline": false,
+    "Allowoffline": true,
     "blocked": false
   }
 ]
