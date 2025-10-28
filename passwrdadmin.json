@@ -209,12 +209,22 @@
     "blocked": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "username": "Mehidi",
     "device_id": "6c3a8fe61675d3c9block",
     "key": "Mehidi@1",
     "expirydate": "31-12-2025",
     "Allowoffline": false,
-    "blocked": true,
+    "blocked": true
+  },
+  {
+    "username": "Sabbir",
+    "device_id": "52622f230edbc3f0",
+    "key": "SABBIR@1",
+    "expirydate": "31-12-2025",
+    "Allowoffline": false,
+    "blocked": false,
     "paymentUSD": 0,
     "paymentBDT": 0
   }
