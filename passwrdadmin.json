@@ -5,7 +5,7 @@
     "device_id": "4c3beff0a6b1224a",
     "key": "Admin",
     "expirydate": "26-10-2090",
-    "Allowoffline": false,
+    "Allowoffline": true,
     "username": "Admin"
   },
   {
