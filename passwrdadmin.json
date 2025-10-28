@@ -33,7 +33,7 @@
     "device_id": "9da83c1b8070b811",
     "key": "SM@10",
     "expirydate": "31-12-2025",
-    "Allowoffline": true,
+    "Allowoffline": false,
     "username": "Khedma1"
   },
   {
