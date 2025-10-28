@@ -30,15 +30,6 @@
   {
     "paymentUSD": 20,
     "paymentBDT": 0,
-    "device_id": "9da83c1b8070b811",
-    "key": "SM@10",
-    "expirydate": "31-12-2025",
-    "Allowoffline": false,
-    "username": "Khedma1"
-  },
-  {
-    "paymentUSD": 20,
-    "paymentBDT": 0,
     "device_id": "f4d31fd9885c812f",
     "key": "SM@11",
     "expirydate": "31-12-2025",
@@ -227,5 +218,15 @@
     "expirydate": "31-12-2025",
     "Allowoffline": false,
     "blocked": false
+  },
+  {
+    "username": "Khedma1",
+    "device_id": "9da83c1b8070b811",
+    "key": "SM@new",
+    "expirydate": "31-12-2025",
+    "Allowoffline": false,
+    "blocked": false,
+    "paymentUSD": 20,
+    "paymentBDT": 0
   }
 ]
