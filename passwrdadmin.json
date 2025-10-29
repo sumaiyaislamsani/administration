@@ -220,13 +220,23 @@
     "blocked": false
   },
   {
+    "paymentUSD": 20,
+    "paymentBDT": 0,
     "username": "Khedma1",
     "device_id": "9da83c1b8070b811",
     "key": "SM@new",
     "expirydate": "31-12-2025",
     "Allowoffline": false,
+    "blocked": false
+  },
+  {
+    "username": "Rasel",
+    "device_id": "252e5f34d6cd1737",
+    "key": "Rasel@1",
+    "expirydate": "31-12-2050",
+    "Allowoffline": false,
     "blocked": false,
-    "paymentUSD": 20,
+    "paymentUSD": 0,
     "paymentBDT": 0
   }
 ]
