@@ -238,5 +238,15 @@
     "expirydate": "31-12-2050",
     "Allowoffline": false,
     "blocked": true
+  },
+  {
+    "username": "ইয়াসিন",
+    "device_id": "8c1121a3410d553d",
+    "key": "SM@9",
+    "expirydate": "31-12-2025",
+    "Allowoffline": false,
+    "blocked": false,
+    "paymentUSD": 0,
+    "paymentBDT": 0
   }
 ]
