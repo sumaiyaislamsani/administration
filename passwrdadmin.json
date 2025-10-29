@@ -240,12 +240,22 @@
     "blocked": true
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "username": "ইয়াসিন",
     "device_id": "8c1121a3410d553d",
     "key": "SM@9block",
     "expirydate": "31-12-2025",
     "Allowoffline": false,
-    "blocked": true,
+    "blocked": true
+  },
+  {
+    "username": "Hridoy",
+    "device_id": "34796f8d9ecb39a9",
+    "key": "Hridoy@1",
+    "expirydate": "31-12-2050",
+    "Allowoffline": false,
+    "blocked": false,
     "paymentUSD": 0,
     "paymentBDT": 0
   }
