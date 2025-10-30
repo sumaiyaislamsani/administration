@@ -211,7 +211,7 @@
   },
   {
     "paymentUSD": 0,
-    "paymentBDT": 0,
+    "paymentBDT": 900,
     "username": "Sabbir",
     "device_id": "52622f230edbc3f0",
     "key": "SABBIR@1",
@@ -260,13 +260,13 @@
     "blocked": false
   },
   {
+    "paymentUSD": 20,
+    "paymentBDT": 0,
     "username": "Khedma3",
     "device_id": "b596bd3edf3a1346",
     "key": "NK@1",
     "expirydate": "31-12-2025",
     "Allowoffline": false,
-    "blocked": false,
-    "paymentUSD": 20,
-    "paymentBDT": 0
+    "blocked": false
   }
 ]
