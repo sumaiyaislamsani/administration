@@ -258,5 +258,15 @@
     "expirydate": "31-12-2050",
     "Allowoffline": false,
     "blocked": false
+  },
+  {
+    "username": "Khedma3",
+    "device_id": "b596bd3edf3a1346",
+    "key": "NK@1",
+    "expirydate": "31-12-2025",
+    "Allowoffline": false,
+    "blocked": false,
+    "paymentUSD": 20,
+    "paymentBDT": 0
   }
 ]
