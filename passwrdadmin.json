@@ -270,13 +270,13 @@
     "blocked": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "username": "+57 310 7423458",
     "device_id": "fdb7a48162c7de5d",
-    "key": "+573107423458",
+    "key": "Test@1",
     "expirydate": "31-12-2050",
     "Allowoffline": false,
-    "blocked": false,
-    "paymentUSD": 0,
-    "paymentBDT": 0
+    "blocked": false
   }
 ]
