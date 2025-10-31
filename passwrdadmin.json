@@ -280,13 +280,13 @@
     "blocked": true
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "username": "New tg",
     "device_id": "59616be583cb3ed5",
     "key": "SMTG@1",
     "expirydate": "31-12-2025",
     "Allowoffline": false,
-    "blocked": false,
-    "paymentUSD": 0,
-    "paymentBDT": 0
+    "blocked": true
   }
 ]
