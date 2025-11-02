@@ -281,13 +281,13 @@
     "blocked": true
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "username": "Safin",
-    "device_id": "b88d1ed577e2bd63",
-    "key": "Safin@1",
+    "device_id": "b88d1ed577e2bd63block",
+    "key": "Safin@1block",
     "expirydate": "31-12-2025",
     "Allowoffline": false,
-    "blocked": false,
-    "paymentUSD": 0,
-    "paymentBDT": 0
+    "blocked": false
   }
 ]
