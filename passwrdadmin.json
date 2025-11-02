@@ -288,6 +288,6 @@
     "key": "Safin@1block",
     "expirydate": "31-12-2025",
     "Allowoffline": false,
-    "blocked": false
+    "blocked": true
   }
 ]
