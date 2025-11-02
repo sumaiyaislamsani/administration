@@ -42,7 +42,7 @@
     "device_id": "bf33c66737a348e2",
     "key": "Nowrin",
     "expirydate": "31-12-2025",
-    "Allowoffline": false,
+    "Allowoffline": true,
     "username": "Nowrin"
   },
   {
