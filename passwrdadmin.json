@@ -3,7 +3,7 @@
     "paymentUSD": 0,
     "paymentBDT": 0,
     "device_id": "4c3beff0a6b1224a",
-    "key": "Admins",
+    "key": "Admin",
     "expirydate": "26-10-2090",
     "Allowoffline": false,
     "username": "Admin"
@@ -264,7 +264,7 @@
     "paymentUSD": 20,
     "paymentBDT": 0,
     "username": "Khedma3",
-    "device_id": "b596bd3edf3a1346",
+    "device_id": "b596bd3edf3a1346block",
     "key": "NK@1",
     "expirydate": "31-12-2025",
     "Allowoffline": false,
