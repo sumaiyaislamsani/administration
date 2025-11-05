@@ -198,7 +198,7 @@
     "key": "Momin@1",
     "expirydate": "05-11-2025",
     "Allowoffline": false,
-    "blocked": false
+    "blocked": true
   },
   {
     "paymentUSD": 0,
