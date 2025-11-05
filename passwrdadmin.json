@@ -16,7 +16,7 @@
     "key": "+8801920512532",
     "expirydate": "08-11-2025",
     "Allowoffline": false,
-    "blocked": false
+    "blocked": true
   },
   {
     "paymentUSD": 25,
