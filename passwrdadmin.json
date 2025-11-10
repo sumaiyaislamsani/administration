@@ -361,6 +361,6 @@
     "key": "Hafi@11",
     "expirydate": "31-10-2025",
     "Allowoffline": false,
-    "blocked": false
+    "blocked": true
   }
 ]
