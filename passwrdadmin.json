@@ -35,7 +35,8 @@
     "key": "SM@11",
     "expirydate": "31-12-2025",
     "Allowoffline": false,
-    "username": "Khedma2"
+    "username": "Khedma2",
+    "blocked": true
   },
   {
     "paymentUSD": 0,
