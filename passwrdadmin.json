@@ -72,7 +72,8 @@
     "key": "SM@3",
     "expirydate": "31-12-2025",
     "Allowoffline": false,
-    "username": "Abu kasem"
+    "username": "Abu kasem",
+    "blocked": true
   },
   {
     "paymentUSD": 0,
