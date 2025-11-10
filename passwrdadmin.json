@@ -231,7 +231,7 @@
     "key": "SM@new",
     "expirydate": "31-12-2025",
     "Allowoffline": false,
-    "blocked": false
+    "blocked": true
   },
   {
     "paymentUSD": 0,
