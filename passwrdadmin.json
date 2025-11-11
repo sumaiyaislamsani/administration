@@ -362,5 +362,15 @@
     "expirydate": "31-12-2026",
     "Allowoffline": false,
     "blocked": false
+  },
+  {
+    "username": "Shamir",
+    "device_id": "48b02250270b1568",
+    "key": "SMCam",
+    "expirydate": "31-12-2025",
+    "Allowoffline": false,
+    "blocked": false,
+    "paymentUSD": 0,
+    "paymentBDT": 500
   }
 ]
