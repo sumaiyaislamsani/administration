@@ -73,7 +73,7 @@
     "expirydate": "31-12-2025",
     "Allowoffline": false,
     "username": "Abu kasem",
-    "blocked": true
+    "blocked": false
   },
   {
     "paymentUSD": 0,
