@@ -372,5 +372,15 @@
     "expirydate": "31-12-2025",
     "Allowoffline": false,
     "blocked": true
+  },
+  {
+    "username": "Shanto",
+    "device_id": "0eb2b00cecc6761e",
+    "key": "SMTOOLBD@1",
+    "expirydate": "31-12-2025",
+    "Allowoffline": false,
+    "blocked": false,
+    "paymentUSD": 0,
+    "paymentBDT": 0
   }
 ]
