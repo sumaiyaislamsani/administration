@@ -384,13 +384,23 @@
     "blocked": true
   },
   {
+    "paymentUSD": 25,
+    "paymentBDT": 0,
     "username": "Khedma 3",
     "device_id": "671b258c602cb3d5",
     "key": "KhedmaNewServer",
     "expirydate": "31-12-2050",
     "Allowoffline": false,
+    "blocked": false
+  },
+  {
+    "username": "New48$",
+    "device_id": "225da0afb379daba",
+    "key": "SMT321@",
+    "expirydate": "31-12-2025",
+    "Allowoffline": false,
     "blocked": false,
-    "paymentUSD": 25,
+    "paymentUSD": 0,
     "paymentBDT": 0
   }
 ]
