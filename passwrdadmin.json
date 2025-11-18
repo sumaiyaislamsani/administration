@@ -73,7 +73,7 @@
     "expirydate": "31-12-2025",
     "Allowoffline": false,
     "username": "Abu kasem",
-    "blocked": true
+    "blocked": false
   },
   {
     "paymentUSD": 0,
@@ -394,13 +394,13 @@
     "blocked": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "username": "New48$",
     "device_id": "225da0afb379daba",
     "key": "SMT321@",
     "expirydate": "31-12-2025",
     "Allowoffline": false,
-    "blocked": false,
-    "paymentUSD": 0,
-    "paymentBDT": 0
+    "blocked": false
   }
 ]
