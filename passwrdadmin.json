@@ -382,5 +382,15 @@
     "expirydate": "31-12-2025",
     "Allowoffline": false,
     "blocked": true
+  },
+  {
+    "username": "Khedma 3",
+    "device_id": "671b258c602cb3d5",
+    "key": "KhedmaNewServer",
+    "expirydate": "31-12-2050",
+    "Allowoffline": false,
+    "blocked": false,
+    "paymentUSD": 25,
+    "paymentBDT": 0
   }
 ]
