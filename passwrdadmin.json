@@ -404,13 +404,13 @@
     "blocked": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 500,
     "username": "Tanvir",
     "device_id": "05fd81ed139f4f4b",
     "key": "Tanvir@11",
-    "expirydate": "31-12-2025",
+    "expirydate": "20-12-2025",
     "Allowoffline": false,
-    "blocked": false,
-    "paymentUSD": 0,
-    "paymentBDT": 0
+    "blocked": false
   }
 ]
