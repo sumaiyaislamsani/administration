@@ -425,7 +425,7 @@
   },
   {
     "paymentUSD": 0,
-    "paymentBDT": 1000,
+    "paymentBDT": 0,
     "username": "Tanisha 3",
     "device_id": "3c8ad88e8f1aab49Block",
     "key": "Tanisha@3Block",
