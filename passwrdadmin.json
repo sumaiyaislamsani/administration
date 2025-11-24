@@ -412,15 +412,5 @@
     "expirydate": "20-12-2025",
     "Allowoffline": false,
     "blocked": false
-  },
-  {
-    "username": "Tanisha",
-    "device_id": "e44f19ec947e3a2d",
-    "key": "Tanisha@1",
-    "expirydate": "31-12-2025",
-    "Allowoffline": false,
-    "blocked": false,
-    "paymentUSD": 0,
-    "paymentBDT": 0
   }
 ]
