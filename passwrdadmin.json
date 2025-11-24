@@ -415,11 +415,11 @@
   },
   {
     "paymentUSD": 0,
-    "paymentBDT": 0,
-    "username": "Tanisha",
+    "paymentBDT": 1000,
+    "username": "Tanisha2+বাকি ১৫০০৳",
     "device_id": "11e9c86c8a34eb9e",
     "key": "Tanisha@2",
-    "expirydate": "31-12-2025",
+    "expirydate": "24-12-2026",
     "Allowoffline": false,
     "blocked": false
   },
