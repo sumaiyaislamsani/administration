@@ -417,8 +417,8 @@
     "paymentUSD": 0,
     "paymentBDT": 0,
     "username": "Tanisha",
-    "device_id": "e44f19ec947e3a2d",
-    "key": "Tanisha@1",
+    "device_id": "11e9c86c8a34eb9e",
+    "key": "Tanisha@2",
     "expirydate": "31-12-2025",
     "Allowoffline": false,
     "blocked": false
@@ -427,20 +427,10 @@
     "paymentUSD": 0,
     "paymentBDT": 0,
     "username": "Tanisha",
-    "device_id": "11e9c86c8a34eb9e",
-    "key": "Tanisha@2",
-    "expirydate": "31-12-2025",
-    "Allowoffline": false,
-    "blocked": false
-  },
-  {
-    "username": "Tanisha",
     "device_id": "3c8ad88e8f1aab49",
     "key": "Tanisha@3",
     "expirydate": "31-12-2025",
     "Allowoffline": false,
-    "blocked": false,
-    "paymentUSD": 0,
-    "paymentBDT": 0
+    "blocked": false
   }
 ]
