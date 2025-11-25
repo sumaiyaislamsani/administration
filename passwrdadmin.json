@@ -451,6 +451,6 @@
     "key": "SMTools@1111",
     "expirydate": "31-12-2025",
     "Allowoffline": false,
-    "blocked": false
+    "blocked": true
   }
 ]
