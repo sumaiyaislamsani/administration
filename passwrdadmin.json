@@ -447,9 +447,9 @@
     "paymentUSD": 0,
     "paymentBDT": 0,
     "username": "Babu",
-    "device_id": "Babu@1",
-    "key": "11e9c86c8a34eb9e",
-    "expirydate": "31-12-2025",
+    "device_id": "11e9c86c8a34eb9e",
+    "key": "Babu@1",
+    "expirydate": "26-05-2026",
     "Allowoffline": false,
     "blocked": false
   }
