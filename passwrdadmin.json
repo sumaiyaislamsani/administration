@@ -442,15 +442,5 @@
     "expirydate": "31-12-2025",
     "Allowoffline": false,
     "blocked": false
-  },
-  {
-    "username": "Towfik",
-    "device_id": "8a36a4f98052cc50",
-    "key": "Towfi@2",
-    "expirydate": "31-12-2025",
-    "Allowoffline": false,
-    "blocked": false,
-    "paymentUSD": 0,
-    "paymentBDT": 0
   }
 ]
