@@ -484,13 +484,23 @@
     "blocked": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 2000,
     "username": "Samir",
     "device_id": "48b02250270b1568",
     "key": "@#324\"'-*+?;64",
     "expirydate": "31-12-2025",
     "Allowoffline": false,
+    "blocked": false
+  },
+  {
+    "username": "ফাতেমা",
+    "device_id": "7ba9dfce86109015",
+    "key": "Fatema@1",
+    "expirydate": "31-12-2025",
+    "Allowoffline": false,
     "blocked": false,
     "paymentUSD": 0,
-    "paymentBDT": 2000
+    "paymentBDT": 500
   }
 ]
