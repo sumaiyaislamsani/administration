@@ -482,7 +482,7 @@
     "key": "Khedma2nd@1",
     "expirydate": "13-12-2025",
     "Allowoffline": false,
-    "blocked": false
+    "blocked": true
   },
   {
     "paymentUSD": 0,
