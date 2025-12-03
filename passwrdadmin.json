@@ -227,12 +227,12 @@
   {
     "paymentUSD": 20,
     "paymentBDT": 0,
-    "username": "Khedma1",
-    "device_id": "6212ce8a1a9d199eBLOCK",
-    "key": "SM@new",
+    "username": "KhedmaSell3",
+    "device_id": "6212ce8a1a9d199e",
+    "key": "NewServer@3",
     "expirydate": "31-12-2025",
     "Allowoffline": false,
-    "blocked": true
+    "blocked": false
   },
   {
     "paymentUSD": 0,
