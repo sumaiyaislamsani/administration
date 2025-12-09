@@ -362,7 +362,7 @@
     "key": "Hafi@11",
     "expirydate": "09-12-2026",
     "Allowoffline": false,
-    "blocked": false
+    "blocked": true
   },
   {
     "paymentUSD": 0,
