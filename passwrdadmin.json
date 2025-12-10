@@ -502,6 +502,6 @@
     "key": "Fatema@1",
     "expirydate": "29-12-2025",
     "Allowoffline": false,
-    "blocked": false
+    "blocked": true
   }
 ]
