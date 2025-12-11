@@ -503,5 +503,15 @@
     "expirydate": "29-12-2025",
     "Allowoffline": false,
     "blocked": true
+  },
+  {
+    "username": "Forid Hasan",
+    "device_id": "bf7df117abeceeb0",
+    "key": "SMNetwork@1",
+    "expirydate": "31-12-2026",
+    "Allowoffline": false,
+    "blocked": false,
+    "paymentUSD": 0,
+    "paymentBDT": 2000
   }
 ]
