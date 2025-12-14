@@ -480,7 +480,7 @@
     "username": "KhedmaSell2",
     "device_id": "8d2c1d7fba260107",
     "key": "NewServers@2",
-    "expirydate": "13-12-2025",
+    "expirydate": "03-01-2026",
     "Allowoffline": false,
     "blocked": false
   },
@@ -505,13 +505,13 @@
     "blocked": true
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 2000,
     "username": "Forid Hasan",
     "device_id": "bf7df117abeceeb0",
     "key": "SMNetwork@1",
     "expirydate": "31-12-2026",
     "Allowoffline": false,
-    "blocked": false,
-    "paymentUSD": 0,
-    "paymentBDT": 2000
+    "blocked": false
   }
 ]
