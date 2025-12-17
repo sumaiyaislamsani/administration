@@ -246,10 +246,10 @@
   },
   {
     "paymentUSD": 0,
-    "paymentBDT": 0,
+    "paymentBDT": 500,
     "username": "ইয়াসিন",
-    "device_id": "8c1121a3410d553dBlock",
-    "key": "SM@9block",
+    "device_id": "8c1121a3410d553d",
+    "key": "SM@9",
     "expirydate": "31-12-2025",
     "Allowoffline": false,
     "blocked": false
