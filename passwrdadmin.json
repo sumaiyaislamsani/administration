@@ -515,13 +515,23 @@
     "blocked": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 5000,
     "username": "Murshed",
     "device_id": "d6f25919f8f3072b",
     "key": "Murshed@1",
     "expirydate": "31-12-2050",
     "Allowoffline": false,
+    "blocked": false
+  },
+  {
+    "username": "Murshed2",
+    "device_id": "44a5ff0832b20ddb",
+    "key": "Murshed@2",
+    "expirydate": "31-12-2050",
+    "Allowoffline": false,
     "blocked": false,
     "paymentUSD": 0,
-    "paymentBDT": 5000
+    "paymentBDT": 0
   }
 ]
