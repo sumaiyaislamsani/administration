@@ -513,5 +513,15 @@
     "expirydate": "31-12-2026",
     "Allowoffline": false,
     "blocked": false
+  },
+  {
+    "username": "Murshed",
+    "device_id": "d6f25919f8f3072b",
+    "key": "Murshed@1",
+    "expirydate": "31-12-2050",
+    "Allowoffline": false,
+    "blocked": false,
+    "paymentUSD": 0,
+    "paymentBDT": 5000
   }
 ]
