@@ -502,7 +502,7 @@
     "key": "Fatema@1",
     "expirydate": "29-12-2025",
     "Allowoffline": false,
-    "blocked": true
+    "blocked": false
   },
   {
     "paymentUSD": 0,
@@ -525,13 +525,13 @@
     "blocked": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "username": "Murshed2",
     "device_id": "44a5ff0832b20ddb",
     "key": "Murshed@2",
     "expirydate": "31-12-2050",
     "Allowoffline": false,
-    "blocked": false,
-    "paymentUSD": 0,
-    "paymentBDT": 0
+    "blocked": false
   }
 ]
