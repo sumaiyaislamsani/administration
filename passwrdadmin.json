@@ -412,7 +412,7 @@
     "key": "Tanvir@11",
     "expirydate": "20-12-2025",
     "Allowoffline": false,
-    "blocked": false
+    "blocked": true
   },
   {
     "paymentUSD": 0,
