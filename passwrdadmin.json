@@ -99,7 +99,7 @@
     "paymentUSD": 0,
     "paymentBDT": 2300,
     "device_id": "71a9114cda034834",
-    "key": "SM1",
+    "key": "SM1Block",
     "expirydate": "31-12-2025",
     "Allowoffline": false,
     "username": "+8801319231603"
@@ -199,7 +199,7 @@
     "paymentBDT": 500,
     "username": "Momin",
     "device_id": "a989821d28300cd2Block",
-    "key": "Momin@1Blck",
+    "key": "Momin@1",
     "expirydate": "05-12-2025",
     "Allowoffline": false,
     "blocked": true
@@ -408,8 +408,8 @@
     "paymentUSD": 0,
     "paymentBDT": 500,
     "username": "Tanvir",
-    "device_id": "05fd81ed139f4f4bBlock",
-    "key": "Tanvir@11Block",
+    "device_id": "05fd81ed139f4f4b",
+    "key": "Tanvir@11",
     "expirydate": "19-12-2025",
     "Allowoffline": false,
     "blocked": true
