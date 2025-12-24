@@ -113,7 +113,7 @@
     "key": "Mawa@1Block",
     "expirydate": "26-11-2025",
     "Allowoffline": false,
-    "blocked": true
+    "blocked": false
   },
   {
     "paymentUSD": 0,
