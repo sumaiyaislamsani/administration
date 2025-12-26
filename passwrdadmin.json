@@ -539,10 +539,10 @@
     "paymentUSD": 0,
     "paymentBDT": 0,
     "username": "Instragram bidesi",
-    "device_id": "5eead993b066dca3Block",
+    "device_id": "5eead993b066dca3",
     "key": "TechMasterSS@1",
-    "expirydate": "31-12-2025",
+    "expirydate": "31-12-2026",
     "Allowoffline": false,
-    "blocked": true
+    "blocked": false
   }
 ]
