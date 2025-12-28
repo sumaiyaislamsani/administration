@@ -537,11 +537,11 @@
   },
   {
     "paymentUSD": 0,
-    "paymentBDT": 0,
-    "username": "Forid Hasan 2",
+    "paymentBDT": 2300,
+    "username": "Forid",
     "device_id": "265232cfa00be9f6",
     "key": "Forid@SM1",
-    "expirydate": "31-12-2026",
+    "expirydate": "28-12-2026",
     "Allowoffline": false,
     "blocked": false
   }
