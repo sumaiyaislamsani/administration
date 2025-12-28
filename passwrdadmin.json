@@ -507,16 +507,6 @@
   },
   {
     "paymentUSD": 0,
-    "paymentBDT": 2000,
-    "username": "Forid Hasan",
-    "device_id": "bf7df117abeceeb0",
-    "key": "SMNetwork@1",
-    "expirydate": "31-12-2025",
-    "Allowoffline": false,
-    "blocked": false
-  },
-  {
-    "paymentUSD": 0,
     "paymentBDT": 5000,
     "username": "Murshed",
     "device_id": "d6f25919f8f3072b",
@@ -546,13 +536,13 @@
     "blocked": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "username": "Forid Hasan 2",
     "device_id": "265232cfa00be9f6",
     "key": "Forid@SM1",
     "expirydate": "31-12-2026",
     "Allowoffline": false,
-    "blocked": false,
-    "paymentUSD": 0,
-    "paymentBDT": 0
+    "blocked": false
   }
 ]
