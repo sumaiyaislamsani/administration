@@ -106,16 +106,6 @@
     "blocked": false
   },
   {
-    "paymentUSD": 15,
-    "paymentBDT": 0,
-    "username": "TG Mawa",
-    "device_id": "eb927f76b654dc9c",
-    "key": "Mawa@1",
-    "expirydate": "26-01-2026",
-    "Allowoffline": false,
-    "blocked": false
-  },
-  {
     "paymentUSD": 0,
     "paymentBDT": 500,
     "device_id": "ce36c27f54910133block",
