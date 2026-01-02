@@ -131,7 +131,7 @@
     "username": "Test my",
     "device_id": "957a801695254817",
     "key": "test",
-    "expirydate": "31-12-2025",
+    "expirydate": "31-12-2026",
     "Allowoffline": false,
     "blocked": false
   },
@@ -151,7 +151,7 @@
     "username": "Test",
     "device_id": "e240f2e46b54ec0e",
     "key": "Testttt",
-    "expirydate": "31-12-2026",
+    "expirydate": "31-12-2025",
     "Allowoffline": false,
     "blocked": false
   },
