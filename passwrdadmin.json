@@ -26,7 +26,7 @@
     "expirydate": "03-01-2026",
     "Allowoffline": false,
     "username": "KhedmaSell1",
-    "blocked": true
+    "blocked": false
   },
   {
     "paymentUSD": 20,
