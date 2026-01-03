@@ -223,7 +223,7 @@
     "key": "NewServer@3BLOCK",
     "expirydate": "03-01-2026",
     "Allowoffline": false,
-    "blocked": true
+    "blocked": false
   },
   {
     "paymentUSD": 0,
