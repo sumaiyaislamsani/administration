@@ -473,7 +473,7 @@
     "key": "NewServers@2",
     "expirydate": "03-01-2027",
     "Allowoffline": false,
-    "blocked": false
+    "blocked": true
   },
   {
     "paymentUSD": 0,
