@@ -536,13 +536,13 @@
     "blocked": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "username": "Shagor",
     "device_id": "b2019de917ce44c9",
     "key": "Shagor@@11",
     "expirydate": "31-12-2027",
     "Allowoffline": false,
-    "blocked": false,
-    "paymentUSD": 0,
-    "paymentBDT": 0
+    "blocked": true
   }
 ]
