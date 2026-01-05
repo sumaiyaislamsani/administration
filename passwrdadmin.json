@@ -139,9 +139,9 @@
     "paymentUSD": 0,
     "paymentBDT": 500,
     "username": "Samim",
-    "device_id": "877138f702899872Block",
-    "key": "Samim@1Block",
-    "expirydate": "08-12-2025",
+    "device_id": "877138f702899872",
+    "key": "Samim@1",
+    "expirydate": "03-02-2026",
     "Allowoffline": false,
     "blocked": false
   },
