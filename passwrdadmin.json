@@ -544,5 +544,15 @@
     "expirydate": "31-12-2027",
     "Allowoffline": false,
     "blocked": true
+  },
+  {
+    "username": "Bijoy",
+    "device_id": "fd45fbb9f946b7bb",
+    "key": "Bijoy@1",
+    "expirydate": "05-02-2026",
+    "Allowoffline": false,
+    "blocked": false,
+    "paymentUSD": 0,
+    "paymentBDT": 200
   }
 ]
