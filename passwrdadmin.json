@@ -563,6 +563,6 @@
     "key": "SMTool@@@@@111",
     "expirydate": "31-12-2027",
     "Allowoffline": false,
-    "blocked": true
+    "blocked": false
   }
 ]
