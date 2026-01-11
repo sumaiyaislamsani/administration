@@ -553,7 +553,7 @@
     "key": "Bijoy@1",
     "expirydate": "05-02-2026",
     "Allowoffline": false,
-    "blocked": false
+    "blocked": true
   },
   {
     "paymentUSD": 0,
