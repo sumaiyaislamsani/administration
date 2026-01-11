@@ -103,7 +103,7 @@
     "expirydate": "31-12-2026",
     "Allowoffline": false,
     "username": "+8801319231603",
-    "blocked": false
+    "blocked": true
   },
   {
     "paymentUSD": 0,
