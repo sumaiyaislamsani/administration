@@ -586,13 +586,13 @@
     "blocked": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "username": "Saidul",
     "device_id": "9fccbad73b3bb105",
     "key": "Saidul@@@1",
     "expirydate": "31-12-2026",
     "Allowoffline": false,
-    "blocked": false,
-    "paymentUSD": 0,
-    "paymentBDT": 0
+    "blocked": true
   }
 ]
