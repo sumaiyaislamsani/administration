@@ -574,5 +574,15 @@
     "expirydate": "31-12-2027",
     "Allowoffline": false,
     "blocked": true
+  },
+  {
+    "username": "Rakib",
+    "device_id": "6b3da87b7dda2d11",
+    "key": "Rakib@@@1",
+    "expirydate": "13-02-2026",
+    "Allowoffline": false,
+    "blocked": false,
+    "paymentUSD": 0,
+    "paymentBDT": 500
   }
 ]
