@@ -41,7 +41,7 @@
   {
     "paymentUSD": 0,
     "paymentBDT": 1000,
-    "device_id": "bf33c66737a348e2",
+    "device_id": "431d77fa868cb359",
     "key": "Nowrin",
     "expirydate": "01-11-2026",
     "Allowoffline": false,
@@ -576,13 +576,13 @@
     "blocked": true
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 500,
     "username": "Rakib",
     "device_id": "6b3da87b7dda2d11",
     "key": "Rakib@@@1",
     "expirydate": "13-02-2026",
     "Allowoffline": false,
-    "blocked": false,
-    "paymentUSD": 0,
-    "paymentBDT": 500
+    "blocked": false
   }
 ]
