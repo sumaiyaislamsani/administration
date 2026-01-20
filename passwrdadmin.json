@@ -306,16 +306,6 @@
     "blocked": true
   },
   {
-    "paymentUSD": 60,
-    "paymentBDT": 0,
-    "username": "Shuraaa onfire",
-    "device_id": "ff6ff448421d3b23",
-    "key": "Shuraaa@1",
-    "expirydate": "31-12-2025",
-    "Allowoffline": false,
-    "blocked": false
-  },
-  {
     "paymentUSD": 0,
     "paymentBDT": 0,
     "username": "Hridoy2",
