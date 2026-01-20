@@ -594,5 +594,15 @@
     "expirydate": "31-12-2000",
     "Allowoffline": false,
     "blocked": true
+  },
+  {
+    "username": "Black box",
+    "device_id": "c1e7ede58f12ac38",
+    "key": "box",
+    "expirydate": "31-12-2029",
+    "Allowoffline": false,
+    "blocked": false,
+    "paymentUSD": 0,
+    "paymentBDT": 0
   }
 ]
