@@ -604,5 +604,15 @@
     "expirydate": "21-01-2027",
     "Allowoffline": false,
     "blocked": true
+  },
+  {
+    "username": "Shaafikul",
+    "device_id": "7b1744466b418177",
+    "key": "SMTOOLVC@1",
+    "expirydate": "23-02-2026",
+    "Allowoffline": false,
+    "blocked": false,
+    "paymentUSD": 0,
+    "paymentBDT": 500
   }
 ]
