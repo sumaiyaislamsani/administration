@@ -606,13 +606,23 @@
     "blocked": true
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 500,
     "username": "Shaafikul",
     "device_id": "7b1744466b418177",
     "key": "SMTOOLVC@1",
     "expirydate": "23-02-2026",
     "Allowoffline": false,
+    "blocked": false
+  },
+  {
+    "username": "Brazil45",
+    "device_id": "f7d01dc5d104a103",
+    "key": "TechMasterSani@00",
+    "expirydate": "31-12-2027",
+    "Allowoffline": false,
     "blocked": false,
-    "paymentUSD": 0,
-    "paymentBDT": 500
+    "paymentUSD": 45,
+    "paymentBDT": 0
   }
 ]
