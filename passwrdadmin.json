@@ -483,7 +483,7 @@
     "key": "Fatema@1",
     "expirydate": "22-01-2010",
     "Allowoffline": false,
-    "blocked": true
+    "blocked": false
   },
   {
     "paymentUSD": 0,
@@ -616,13 +616,13 @@
     "blocked": false
   },
   {
+    "paymentUSD": 45,
+    "paymentBDT": 0,
     "username": "Brazil45",
     "device_id": "f7d01dc5d104a103",
     "key": "TechMasterSani@00",
     "expirydate": "31-12-2027",
     "Allowoffline": false,
-    "blocked": false,
-    "paymentUSD": 45,
-    "paymentBDT": 0
+    "blocked": false
   }
 ]
