@@ -636,13 +636,23 @@
     "blocked": true
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 1000,
     "username": "Md Sahil Khan india",
     "device_id": "12a2c9c175f194aa",
     "key": "mdsahil@1",
     "expirydate": "31-12-2026",
     "Allowoffline": false,
+    "blocked": false
+  },
+  {
+    "username": "Bipu",
+    "device_id": "0b90fc6715b37d97",
+    "key": "Bipu@@@1",
+    "expirydate": "28-02-2026",
+    "Allowoffline": false,
     "blocked": false,
     "paymentUSD": 0,
-    "paymentBDT": 1000
+    "paymentBDT": 500
   }
 ]
