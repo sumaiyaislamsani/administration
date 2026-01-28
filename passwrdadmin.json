@@ -646,13 +646,23 @@
     "blocked": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 500,
     "username": "Bipu",
     "device_id": "0b90fc6715b37d97",
     "key": "Bipu@@@1",
     "expirydate": "28-02-2026",
     "Allowoffline": false,
+    "blocked": false
+  },
+  {
+    "username": "Sani New Phone",
+    "device_id": "da0572a7447f48cb",
+    "key": "Admin@1",
+    "expirydate": "31-12-2090",
+    "Allowoffline": false,
     "blocked": false,
     "paymentUSD": 0,
-    "paymentBDT": 500
+    "paymentBDT": 0
   }
 ]
