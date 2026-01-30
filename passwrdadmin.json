@@ -656,10 +656,20 @@
     "blocked": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "username": "Sani New Phone",
     "device_id": "da0572a7447f48cb",
     "key": "Admin@1",
     "expirydate": "31-12-2090",
+    "Allowoffline": false,
+    "blocked": false
+  },
+  {
+    "username": "sanitest",
+    "device_id": "64fafe87b50636fc",
+    "key": "0000",
+    "expirydate": "31-12-2029",
     "Allowoffline": false,
     "blocked": false,
     "paymentUSD": 0,
