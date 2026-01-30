@@ -477,8 +477,8 @@
   },
   {
     "paymentUSD": 0,
-    "paymentBDT": 1000,
-    "username": "ফাতেমা+ baki ache500",
+    "paymentBDT": 1500,
+    "username": "ফাতেমা",
     "device_id": "7ba9dfce86109015",
     "key": "Fatema@1",
     "expirydate": "22-02-2026",
@@ -666,13 +666,13 @@
     "blocked": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "username": "sanitest",
     "device_id": "64fafe87b50636fc",
     "key": "0000",
     "expirydate": "31-12-2029",
     "Allowoffline": false,
-    "blocked": false,
-    "paymentUSD": 0,
-    "paymentBDT": 0
+    "blocked": false
   }
 ]
