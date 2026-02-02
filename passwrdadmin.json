@@ -684,5 +684,15 @@
     "expirydate": "31-12-2027",
     "Allowoffline": false,
     "blocked": false
+  },
+  {
+    "username": "Brazil new",
+    "device_id": "ded9e5ba0fc61da9",
+    "key": "ded9e5ba0fc61da9",
+    "expirydate": "31-12-2027",
+    "Allowoffline": false,
+    "blocked": false,
+    "paymentUSD": 37,
+    "paymentBDT": 0
   }
 ]
