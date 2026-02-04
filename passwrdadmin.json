@@ -694,5 +694,15 @@
     "expirydate": "31-12-2027",
     "Allowoffline": false,
     "blocked": false
+  },
+  {
+    "username": "+880 1336-210595 Sabbir",
+    "device_id": "1f96f66790297eea",
+    "key": "1f96f66790297eea",
+    "expirydate": "04-03-2026",
+    "Allowoffline": false,
+    "blocked": false,
+    "paymentUSD": 0,
+    "paymentBDT": 500
   }
 ]
