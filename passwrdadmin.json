@@ -463,7 +463,7 @@
     "key": "NewServers@2",
     "expirydate": "03-02-2000",
     "Allowoffline": false,
-    "blocked": false
+    "blocked": true
   },
   {
     "paymentUSD": 0,
