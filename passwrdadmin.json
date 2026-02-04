@@ -223,7 +223,7 @@
     "key": "NewServer@3",
     "expirydate": "03-03-2026",
     "Allowoffline": false,
-    "blocked": false
+    "blocked": true
   },
   {
     "paymentUSD": 0,
