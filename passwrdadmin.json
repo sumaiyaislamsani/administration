@@ -26,7 +26,7 @@
     "expirydate": "03-03-2026",
     "Allowoffline": false,
     "username": "KhedmaSell1",
-    "blocked": false
+    "blocked": true
   },
   {
     "paymentUSD": 20,
@@ -696,13 +696,13 @@
     "blocked": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 500,
     "username": "+880 1336-210595 Sabbir",
     "device_id": "1f96f66790297eea",
     "key": "1f96f66790297eea",
     "expirydate": "04-03-2026",
     "Allowoffline": false,
-    "blocked": false,
-    "paymentUSD": 0,
-    "paymentBDT": 500
+    "blocked": false
   }
 ]
