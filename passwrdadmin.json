@@ -64,7 +64,8 @@
     "key": "Mumit@1",
     "expirydate": "31-12-2025",
     "Allowoffline": false,
-    "username": "Mumit"
+    "username": "Mumit",
+    "blocked": true
   },
   {
     "paymentUSD": 30,
