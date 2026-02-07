@@ -717,13 +717,23 @@
     "blocked": false
   },
   {
+    "paymentUSD": 15,
+    "paymentBDT": 0,
     "username": "T53",
     "device_id": "26479c45858dd4bc",
     "key": "26479c45858dd4bc",
     "expirydate": "31-12-2026",
     "Allowoffline": false,
+    "blocked": false
+  },
+  {
+    "username": "Mert Kara",
+    "device_id": "d8b1b23735018ea6",
+    "key": "d8b1b23735018ea6",
+    "expirydate": "31-12-2026",
+    "Allowoffline": false,
     "blocked": false,
-    "paymentUSD": 15,
+    "paymentUSD": 0,
     "paymentBDT": 0
   }
 ]
