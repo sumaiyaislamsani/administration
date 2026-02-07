@@ -707,13 +707,23 @@
     "blocked": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "username": "LL",
     "device_id": "d01adc22d1ae2869",
     "key": "LL",
     "expirydate": "31-12-2026",
     "Allowoffline": false,
+    "blocked": false
+  },
+  {
+    "username": "T53",
+    "device_id": "26479c45858dd4bc",
+    "key": "26479c45858dd4bc",
+    "expirydate": "31-12-2026",
+    "Allowoffline": false,
     "blocked": false,
-    "paymentUSD": 0,
+    "paymentUSD": 15,
     "paymentBDT": 0
   }
 ]
