@@ -735,5 +735,15 @@
     "expirydate": "31-12-2026",
     "Allowoffline": false,
     "blocked": true
+  },
+  {
+    "username": "Jojo Sonne",
+    "device_id": "ace52c13e4038d19",
+    "key": "JOJOSONNE@1",
+    "expirydate": "31-12-2026",
+    "Allowoffline": false,
+    "blocked": false,
+    "paymentUSD": 40,
+    "paymentBDT": 0
   }
 ]
