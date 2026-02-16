@@ -98,10 +98,10 @@
   },
   {
     "paymentUSD": 0,
-    "paymentBDT": 2300,
+    "paymentBDT": 300,
     "device_id": "71a9114cda034834",
     "key": "Rimi@@@1",
-    "expirydate": "15-02-2000",
+    "expirydate": "15-03-2026",
     "Allowoffline": false,
     "username": "+8801319231603",
     "blocked": false
