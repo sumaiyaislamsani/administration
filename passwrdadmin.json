@@ -694,7 +694,7 @@
     "key": "ded9e5ba0fc61da9",
     "expirydate": "31-12-2027",
     "Allowoffline": false,
-    "blocked": false
+    "blocked": true
   },
   {
     "paymentUSD": 0,
