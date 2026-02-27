@@ -747,13 +747,23 @@
     "blocked": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 800,
     "username": "Babu2",
     "device_id": "3c8ad88e8f1aab49",
     "key": "Babu@3",
     "expirydate": "26-05-2026",
     "Allowoffline": false,
+    "blocked": false
+  },
+  {
+    "username": "Babu4",
+    "device_id": "b8670e1d76859992",
+    "key": "Babu@4",
+    "expirydate": "27-12-2026",
+    "Allowoffline": false,
     "blocked": false,
     "paymentUSD": 0,
-    "paymentBDT": 800
+    "paymentBDT": 0
   }
 ]
