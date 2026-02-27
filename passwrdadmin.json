@@ -388,16 +388,6 @@
   },
   {
     "paymentUSD": 0,
-    "paymentBDT": 500,
-    "username": "Tanvir",
-    "device_id": "05fd81ed139f4f4b",
-    "key": "Tanvir@11",
-    "expirydate": "19-12-2025",
-    "Allowoffline": false,
-    "blocked": true
-  },
-  {
-    "paymentUSD": 0,
     "paymentBDT": 800,
     "username": "Babu1",
     "device_id": "11e9c86c8a34eb9e",
