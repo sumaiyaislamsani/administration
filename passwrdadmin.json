@@ -398,16 +398,6 @@
   },
   {
     "paymentUSD": 0,
-    "paymentBDT": 0,
-    "username": "Tanisha 3",
-    "device_id": "3c8ad88e8f1aab49Block",
-    "key": "Tanisha@3Block",
-    "expirydate": "24-12-2026",
-    "Allowoffline": false,
-    "blocked": true
-  },
-  {
-    "paymentUSD": 0,
     "paymentBDT": 800,
     "username": "Babu1",
     "device_id": "11e9c86c8a34eb9e",
