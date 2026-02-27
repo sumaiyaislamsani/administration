@@ -378,11 +378,11 @@
   },
   {
     "paymentUSD": 0,
-    "paymentBDT": 800,
+    "paymentBDT": 0,
     "username": "Babu1",
     "device_id": "11e9c86c8a34eb9e",
     "key": "Babu@1",
-    "expirydate": "26-05-2026",
+    "expirydate": "27-02-2027",
     "Allowoffline": false,
     "blocked": false
   },
@@ -707,13 +707,13 @@
     "blocked": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "username": "Babu4",
     "device_id": "b8670e1d76859992",
     "key": "Babu@4",
     "expirydate": "27-12-2026",
     "Allowoffline": false,
-    "blocked": false,
-    "paymentUSD": 0,
-    "paymentBDT": 0
+    "blocked": false
   }
 ]
