@@ -408,16 +408,6 @@
   },
   {
     "paymentUSD": 0,
-    "paymentBDT": 0,
-    "username": "ROnline",
-    "device_id": "55bb632e2574c309Block",
-    "key": "SMBDB@1Block",
-    "expirydate": "31-12-2025",
-    "Allowoffline": false,
-    "blocked": true
-  },
-  {
-    "paymentUSD": 0,
     "paymentBDT": 800,
     "username": "Babu1",
     "device_id": "11e9c86c8a34eb9e",
