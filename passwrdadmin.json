@@ -357,16 +357,6 @@
     "blocked": true
   },
   {
-    "paymentUSD": 0,
-    "paymentBDT": 0,
-    "username": "Shanto",
-    "device_id": "0eb2b00cecc6761eBlock",
-    "key": "SMTOOLBD@1Block",
-    "expirydate": "31-12-2025",
-    "Allowoffline": false,
-    "blocked": true
-  },
-  {
     "paymentUSD": 25,
     "paymentBDT": 0,
     "username": "Khedma 3",
