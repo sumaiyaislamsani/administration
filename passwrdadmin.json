@@ -418,16 +418,6 @@
   },
   {
     "paymentUSD": 0,
-    "paymentBDT": 0,
-    "username": "আখি মনি",
-    "device_id": "6c593e4f8cd98918Block",
-    "key": "SMTools@1111Block",
-    "expirydate": "31-12-2025",
-    "Allowoffline": false,
-    "blocked": true
-  },
-  {
-    "paymentUSD": 0,
     "paymentBDT": 800,
     "username": "Babu1",
     "device_id": "11e9c86c8a34eb9e",
