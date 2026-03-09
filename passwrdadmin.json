@@ -268,16 +268,6 @@
     "blocked": true
   },
   {
-    "paymentUSD": 25,
-    "paymentBDT": 0,
-    "username": "Khedma 3",
-    "device_id": "671b258c602cb3d5BLOCK",
-    "key": "KhedmaNewServer",
-    "expirydate": "31-12-2050",
-    "Allowoffline": false,
-    "blocked": true
-  },
-  {
     "paymentUSD": 48,
     "paymentBDT": 0,
     "username": "+234 814 434 5975",
