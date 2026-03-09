@@ -120,16 +120,6 @@
   {
     "paymentUSD": 0,
     "paymentBDT": 0,
-    "username": "OG",
-    "device_id": "444af8b1c5ea3ed7",
-    "key": "Hafi@1blocks",
-    "expirydate": "31-12-2025",
-    "Allowoffline": false,
-    "blocked": true
-  },
-  {
-    "paymentUSD": 0,
-    "paymentBDT": 0,
     "username": "Test my",
     "device_id": "957a801695254817",
     "key": "test",
