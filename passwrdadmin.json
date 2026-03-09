@@ -308,16 +308,6 @@
     "blocked": false
   },
   {
-    "paymentUSD": 20,
-    "paymentBDT": 0,
-    "username": "KhedmaSell2",
-    "device_id": "8d2c1d7fba260107Block",
-    "key": "NewServers@2",
-    "expirydate": "03-03-2026",
-    "Allowoffline": false,
-    "blocked": true
-  },
-  {
     "paymentUSD": 0,
     "paymentBDT": 2000,
     "username": "Samir",
