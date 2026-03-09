@@ -130,16 +130,6 @@
   {
     "paymentUSD": 0,
     "paymentBDT": 0,
-    "username": "T64",
-    "device_id": "5ed12a01ee04ded1",
-    "key": "user101block",
-    "expirydate": "31-12-2025",
-    "Allowoffline": false,
-    "blocked": true
-  },
-  {
-    "paymentUSD": 0,
-    "paymentBDT": 0,
     "username": "+212 629-091026",
     "device_id": "f0b44bfdac001e73",
     "key": "Sani123block",
@@ -233,16 +223,6 @@
     "username": "Khedma3",
     "device_id": "b596bd3edf3a1346BLOCK",
     "key": "NK@1",
-    "expirydate": "31-12-2025",
-    "Allowoffline": false,
-    "blocked": true
-  },
-  {
-    "paymentUSD": 0,
-    "paymentBDT": 0,
-    "username": "New tg",
-    "device_id": "59616be583cb3ed5block",
-    "key": "SMTG@1",
     "expirydate": "31-12-2025",
     "Allowoffline": false,
     "blocked": true
