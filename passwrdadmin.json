@@ -130,16 +130,6 @@
   {
     "paymentUSD": 0,
     "paymentBDT": 0,
-    "username": "Test",
-    "device_id": "e240f2e46b54ec0e",
-    "key": "Testttt",
-    "expirydate": "31-12-2025",
-    "Allowoffline": false,
-    "blocked": false
-  },
-  {
-    "paymentUSD": 0,
-    "paymentBDT": 0,
     "username": "T64",
     "device_id": "5ed12a01ee04ded1",
     "key": "user101block",
