@@ -687,12 +687,12 @@
     "blocked": true
   },
   {
-    "paymentUSD": 40,
+    "paymentUSD": 30,
     "paymentBDT": 0,
     "username": "Jojo Sonne",
-    "device_id": "ace52c13e4038d19Block",
-    "key": "JOJOSONNE@1",
-    "expirydate": "31-12-2026",
+    "device_id": "ace52c13e4038d19",
+    "key": "1monthkey",
+    "expirydate": "09-04-2026",
     "Allowoffline": false,
     "blocked": false
   },
