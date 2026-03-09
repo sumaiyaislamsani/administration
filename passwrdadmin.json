@@ -84,7 +84,8 @@
     "key": "SM@8",
     "expirydate": "31-07-2026",
     "Allowoffline": false,
-    "username": "Pinku"
+    "username": "Pinku",
+    "blocked": true
   },
   {
     "paymentUSD": 0,
