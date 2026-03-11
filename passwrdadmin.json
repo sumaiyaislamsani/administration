@@ -601,7 +601,7 @@
     "paymentUSD": 0,
     "paymentBDT": 0,
     "username": "Babu4",
-    "device_id": "b8670e1d76859992",
+    "device_id": "b8670e1d76859992Block",
     "key": "Babu@4",
     "expirydate": "27-07-2000",
     "Allowoffline": false,
@@ -628,13 +628,13 @@
     "blocked": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 2500,
     "username": "Hridoy",
     "device_id": "cfe1b5abc6870153",
     "key": "Hridoy@1year",
     "expirydate": "11-03-2027",
     "Allowoffline": false,
-    "blocked": false,
-    "paymentUSD": 0,
-    "paymentBDT": 2500
+    "blocked": false
   }
 ]
