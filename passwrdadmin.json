@@ -595,7 +595,7 @@
     "key": "Babu@3",
     "expirydate": "26-05-2026",
     "Allowoffline": false,
-    "blocked": false
+    "blocked": true
   },
   {
     "paymentUSD": 0,
