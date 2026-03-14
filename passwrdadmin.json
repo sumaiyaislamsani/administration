@@ -325,7 +325,7 @@
     "key": "Fatema@1",
     "expirydate": "22-02-2026",
     "Allowoffline": false,
-    "blocked": false
+    "blocked": true
   },
   {
     "paymentUSD": 0,
