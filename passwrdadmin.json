@@ -648,13 +648,23 @@
     "blocked": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 0,
     "username": "BlackBox",
     "device_id": "d81067211b857ac9",
     "key": "123456",
     "expirydate": "01-01-2028",
     "Allowoffline": false,
+    "blocked": false
+  },
+  {
+    "username": ".",
+    "device_id": "6c8c070113200c54",
+    "key": "TechBoss@@1",
+    "expirydate": "01-06-2026",
+    "Allowoffline": false,
     "blocked": false,
-    "paymentUSD": 0,
+    "paymentUSD": 30,
     "paymentBDT": 0
   }
 ]
