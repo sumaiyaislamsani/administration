@@ -166,7 +166,7 @@
     "key": "NewServer@3",
     "expirydate": "07-04-2026",
     "Allowoffline": false,
-    "blocked": true
+    "blocked": false
   },
   {
     "paymentUSD": 0,
