@@ -666,7 +666,7 @@
     "key": "TechBoss@@1",
     "expirydate": "01-06-2026",
     "Allowoffline": false,
-    "blocked": true
+    "blocked": false
   },
   {
     "paymentUSD": 95,
