@@ -366,7 +366,7 @@
     "key": "Forid@SM1",
     "expirydate": "28-12-2026",
     "Allowoffline": false,
-    "blocked": true
+    "blocked": false
   },
   {
     "paymentUSD": 0,
