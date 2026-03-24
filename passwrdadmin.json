@@ -196,7 +196,7 @@
     "key": "Hridoy@1",
     "expirydate": "31-12-2050",
     "Allowoffline": false,
-    "blocked": false
+    "blocked": true
   },
   {
     "paymentUSD": 0,
