@@ -616,7 +616,7 @@
     "key": "Kerlos@2",
     "expirydate": "01-12-2027",
     "Allowoffline": false,
-    "blocked": false
+    "blocked": true
   },
   {
     "paymentUSD": 15,
