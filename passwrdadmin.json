@@ -586,7 +586,7 @@
     "key": "1monthkey",
     "expirydate": "09-04-2026",
     "Allowoffline": false,
-    "blocked": false
+    "blocked": true
   },
   {
     "paymentUSD": 0,
