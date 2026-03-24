@@ -306,7 +306,7 @@
     "key": "Sujon24@@",
     "expirydate": "31-10-2026",
     "Allowoffline": false,
-    "blocked": false
+    "blocked": true
   },
   {
     "paymentUSD": 0,
