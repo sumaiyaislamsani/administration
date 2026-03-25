@@ -50,16 +50,6 @@
   },
   {
     "paymentUSD": 0,
-    "paymentBDT": 0,
-    "username": "Rasel",
-    "device_id": "252e5f34d6cd1737",
-    "key": "Rasel@1block",
-    "expirydate": "31-12-2050",
-    "Allowoffline": false,
-    "blocked": true
-  },
-  {
-    "paymentUSD": 0,
     "paymentBDT": 500,
     "username": "ইয়াসিন",
     "device_id": "8c1121a3410d553d",
