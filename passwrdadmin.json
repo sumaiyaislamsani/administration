@@ -30,16 +30,6 @@
   },
   {
     "paymentUSD": 0,
-    "paymentBDT": 500,
-    "username": "Samim",
-    "device_id": "877138f702899872",
-    "key": "Samim@1",
-    "expirydate": "03-02-2000",
-    "Allowoffline": false,
-    "blocked": true
-  },
-  {
-    "paymentUSD": 0,
     "paymentBDT": 0,
     "username": "+212 629-091026",
     "device_id": "f0b44bfdac001e73",
