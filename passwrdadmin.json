@@ -20,16 +20,6 @@
   },
   {
     "paymentUSD": 0,
-    "paymentBDT": 0,
-    "device_id": "8d5a7ec697667b8a",
-    "key": "Korim@1Blocked",
-    "expirydate": "31-12-2025",
-    "Allowoffline": false,
-    "username": "Korim",
-    "blocked": true
-  },
-  {
-    "paymentUSD": 0,
     "paymentBDT": 300,
     "device_id": "71a9114cda034834",
     "key": "Rimi@@@1",
