@@ -20,16 +20,6 @@
   },
   {
     "paymentUSD": 0,
-    "paymentBDT": 1300,
-    "device_id": "80039ef576876e54",
-    "key": "SM@8",
-    "expirydate": "31-07-2000",
-    "Allowoffline": false,
-    "username": "Pinku",
-    "blocked": true
-  },
-  {
-    "paymentUSD": 0,
     "paymentBDT": 0,
     "device_id": "8d5a7ec697667b8a",
     "key": "Korim@1Blocked",
