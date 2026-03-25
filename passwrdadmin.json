@@ -190,16 +190,6 @@
   },
   {
     "paymentUSD": 0,
-    "paymentBDT": 200,
-    "username": "Bijoy",
-    "device_id": "fd45fbb9f946b7bbBlock",
-    "key": "Bijoy@1",
-    "expirydate": "05-02-2026",
-    "Allowoffline": false,
-    "blocked": true
-  },
-  {
-    "paymentUSD": 0,
     "paymentBDT": 500,
     "username": "Sabbir2",
     "device_id": "e4b5d1dcda8e1966",
