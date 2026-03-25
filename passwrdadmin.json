@@ -19,16 +19,6 @@
     "blocked": false
   },
   {
-    "paymentUSD": 30,
-    "paymentBDT": 0,
-    "device_id": "32645e876f12f591Block",
-    "key": "NewServer10Block",
-    "expirydate": "31-12-2025",
-    "Allowoffline": false,
-    "username": "Abu kasem",
-    "blocked": true
-  },
-  {
     "paymentUSD": 0,
     "paymentBDT": 1300,
     "device_id": "80039ef576876e54",
