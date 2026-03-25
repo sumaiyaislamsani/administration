@@ -81,16 +81,6 @@
   {
     "paymentUSD": 0,
     "paymentBDT": 0,
-    "username": "+213665917742",
-    "device_id": "2b86860940692c2cBLOCK",
-    "key": "+213665917742BLCK",
-    "expirydate": "31-12-2025",
-    "Allowoffline": false,
-    "blocked": true
-  },
-  {
-    "paymentUSD": 0,
-    "paymentBDT": 0,
     "username": "Hridoy2",
     "device_id": "9054d0090c95b655Blocks",
     "key": "Hridoy@2BLOCKs",
