@@ -99,16 +99,6 @@
     "blocked": true
   },
   {
-    "paymentUSD": 0,
-    "paymentBDT": 0,
-    "username": "Shamir",
-    "device_id": "48b02250270b1568 Block",
-    "key": "SMCam",
-    "expirydate": "31-12-2025",
-    "Allowoffline": false,
-    "blocked": true
-  },
-  {
     "paymentUSD": 48,
     "paymentBDT": 0,
     "username": "+234 814 434 5975",
