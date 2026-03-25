@@ -180,16 +180,6 @@
   },
   {
     "paymentUSD": 0,
-    "paymentBDT": 0,
-    "username": "Instragram bidesi",
-    "device_id": "5eead993b066dca3Block",
-    "key": "TechMasterSS@1Block",
-    "expirydate": "31-12-2000",
-    "Allowoffline": false,
-    "blocked": true
-  },
-  {
-    "paymentUSD": 0,
     "paymentBDT": 2300,
     "username": "Forid",
     "device_id": "265232cfa00be9f6",
