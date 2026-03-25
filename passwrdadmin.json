@@ -69,16 +69,6 @@
     "blocked": true
   },
   {
-    "paymentUSD": 0,
-    "paymentBDT": 0,
-    "username": "Safin",
-    "device_id": "b88d1ed577e2bd63block",
-    "key": "Safin@1block",
-    "expirydate": "31-12-2025",
-    "Allowoffline": false,
-    "blocked": true
-  },
-  {
     "paymentUSD": 30,
     "paymentBDT": 0,
     "username": "+44 7453 103238",
