@@ -449,16 +449,6 @@
     "blocked": false
   },
   {
-    "paymentUSD": 30,
-    "paymentBDT": 0,
-    "username": ".",
-    "device_id": "6c8c070113200c54",
-    "key": "TechBoss@@1",
-    "expirydate": "01-06-2026",
-    "Allowoffline": false,
-    "blocked": false
-  },
-  {
     "paymentUSD": 95,
     "paymentBDT": 0,
     "username": "Lion",
