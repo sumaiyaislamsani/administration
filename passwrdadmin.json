@@ -436,7 +436,7 @@
     "key": "a5b3387bef19a98c",
     "expirydate": "12-04-2000",
     "Allowoffline": false,
-    "blocked": true
+    "blocked": false
   },
   {
     "paymentUSD": 0,
