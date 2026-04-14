@@ -206,7 +206,7 @@
     "key": "Rakib@@@1",
     "expirydate": "13-02-2026",
     "Allowoffline": false,
-    "blocked": false
+    "blocked": true
   },
   {
     "paymentUSD": 0,
