@@ -356,7 +356,7 @@
     "key": "26479c45858dd4bc",
     "expirydate": "31-12-2000",
     "Allowoffline": false,
-    "blocked": true
+    "blocked": false
   },
   {
     "paymentUSD": 0,
