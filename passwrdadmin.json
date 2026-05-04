@@ -23,7 +23,7 @@
     "paymentBDT": 200,
     "device_id": "71a9114cda034834Block",
     "key": "Rimi@@@1",
-    "expirydate": "24-05-2026",
+    "expirydate": "24-05-2000",
     "Allowoffline": false,
     "username": "+8801319231603",
     "blocked": true
@@ -459,13 +459,13 @@
     "blocked": false
   },
   {
+    "paymentUSD": 0,
+    "paymentBDT": 3500,
     "username": "Shakil",
     "device_id": "3e80226a6a63ce82",
     "key": "123456",
     "expirydate": "01-06-2027",
     "Allowoffline": false,
-    "blocked": false,
-    "paymentUSD": 0,
-    "paymentBDT": 3500
+    "blocked": false
   }
 ]
